@@ -1,0 +1,11 @@
+cryptocurrencies:
+  RUNE:
+    twitter_keywords: ["THORChain", "$RUNE", "RUNE crypto"]
+    news_keywords: ["cross-chain", "liquidity"]
+    alert_threshold: 0.75
+    volume_24h: 5000000  # Filtre de volume minimum
+  
+  ATOM:
+    twitter_keywords: ["Cosmos Hub", "ATOM staking"]
+    news_keywords: ["IBC protocol"]
+    alert_threshold: 0.68
